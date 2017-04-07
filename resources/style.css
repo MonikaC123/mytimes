@@ -1,7 +1,67 @@
+body {
+
+}
+
 header {
   display: flex;
-  justify-content: space-around;
   font-family: Verdana;
   font-size: 14px;
   font-weight: bold;
+  align-items: center;
+  width: 100%
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  color: aquamarine;
+}
+
+nav {
+  display: inline-block;
+}
+
+.content {
+  display: flex;
+
+}
+
+.column-large {
+
+}
+
+.column-medium {
+
+}
+
+.column-small {
+  
+}
+
+.lead-story {
+
+}
+
+.image-content {
+
+}
+
+.narrative {
+
+}
+
+.stories {
+
+}
+
+.story {
+
+}
+
+.text-content {
+
+}
+
+.fall-cancelled {
+
 }
