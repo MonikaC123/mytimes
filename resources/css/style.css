@@ -21,21 +21,28 @@ nav {
   display: inline-block;
 }
 
+div {
+  border: 1px solid black;
+}
 .content {
   display: flex;
 
 }
 
-.column-large {
-
+.column {
+  display: flex;
 }
 
-.column-medium {
-
+.column.large-left {
+  width: 630px;
 }
 
-.column-small {
-  
+.column.medium-middle {
+  width: 300px;
+}
+
+.column.small-right {
+  width: 240px;
 }
 
 .lead-story {
