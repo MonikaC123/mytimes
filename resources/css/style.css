@@ -42,6 +42,13 @@ nav {
   justify-content: flex-end;
 }
 
+.content {
+    display: flex;
+    width: 1232px;
+    margin: 0 auto 28px auto;
+    padding-top: 116px;
+}
+
 .column {
     display: flex;
     flex-direction: column;
@@ -61,12 +68,6 @@ nav {
   width: 240px;
 }
 
-.content {
-    display: flex;
-    width: 1232px;
-    margin: 0 auto 28px auto;
-    padding-top: 116px;
-}
 
 h2 {
     margin-top: 0;
