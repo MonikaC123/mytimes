@@ -142,7 +142,7 @@ h2 {
 }
 
 .cat-ceo.image-content {
-    background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-1.png);
+    background-image: url("../images/img-story-1.png");
 }
 .news-bites .bite {
     display: block;
