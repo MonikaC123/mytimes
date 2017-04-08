@@ -131,6 +131,10 @@ h2 {
     background-image: url(../images/img-story-2.png);
 }
 
+.pop-culture.image-content {
+    background-image: url("../images/img-story-3.png");
+}
+
 .news-bites .bite {
     display: block;
     padding: 11px 20px;
